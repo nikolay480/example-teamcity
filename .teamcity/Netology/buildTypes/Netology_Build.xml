@@ -4,6 +4,7 @@
   <description />
   <settings ref="Netology_Build_2">
     <options>
+      <option name="artifactRules" value="target/*.jar" />
       <option name="checkoutMode" value="ON_SERVER" />
     </options>
     <parameters />
